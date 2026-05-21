@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Guias de estudo (não commitar)
+CONCEITOS.md
+RESUMO_IMPLEMENTACAO.md
+GUIA_EXECUCAO.md
+CHECKLIST_VALIDACAO.md
+INICIO_RAPIDO.md
+COMANDOS_UTEIS.md
+COMECE_AQUI.md
